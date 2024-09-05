@@ -14,7 +14,7 @@ This repository contains a simple implementation of a Daytime client-server prog
 - A Linux operating system (Ubuntu or similar).
 - GCC (GNU Compiler Collection) installed for compiling C programs.
 
-###Author
+### Author
 
 Fadli Shindqi Firdaus - 21120122140166
 
