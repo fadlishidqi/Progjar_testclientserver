@@ -16,6 +16,6 @@ This repository contains a simple implementation of a Daytime client-server prog
 
 ### Author
 
-Fadli Shindqi Firdaus - 21120122140166
+Fadli Shidqi Firdaus - 21120122140166
 
 Feel free to fork this project and submit pull requests for improvements!
